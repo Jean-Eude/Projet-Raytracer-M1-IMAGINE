@@ -2,7 +2,7 @@
 
 
 
-Projet réalisé tout au long du 1er semestre du Master 1 Imagine à l'Université de Montpellier. Ce projet avait pour objectifs de comprendre le Raytracing de manière général.
+Projet réalisé tout au long du 1er semestre du Master 1 Imagine à l'Université de Montpellier. Ce projet avait pour objectif de comprendre le Raytracing de manière général.
 
 
 
